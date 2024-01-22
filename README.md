@@ -51,13 +51,23 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 <h5>Interpret Results</h5>
 <h5>Document and Share</h5>
 
+<h3>Pivot Tables</h3>
+![Description](images/pivotspng.png)
 
-Visualizations
 
-
-![image](https://github.com/sanni1244/bikeSales_ds/assets/86856217/c708ed2d-4bbf-476c-88d0-9ee97e9854a1)
+<h3>Visualizations</h3>
 ![Description](images/shot.png)
 
+# Acknowledgments
 
-How to Use the Excel File
-Acknowledgments
+We would like to express our gratitude to the following individuals and resources that contributed to the success of this Excel-based data analysis project:
+
+- AlexTheAnalyst
+- **[Repository]**: https://github.com/AlexTheAnalyst
+- **[Online Resource]**: (https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+
+Special thanks to the [Name of Organization/Team] for their continuous support and encouragement.
+
+Feel free to explore and build upon this work, and we welcome any feedback or contributions from the community.
+
+Thank you!
