@@ -56,7 +56,7 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 
 
 <h3>Visualizations</h3>
-![Description](images/shot.png)
+![Description](https://github.com/sanni1244/bikeSales_ds/blob/main/images/shot.png)
 
 # Acknowledgments
 
