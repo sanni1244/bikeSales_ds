@@ -66,8 +66,6 @@ We would like to express our gratitude to the following individuals and resource
 - **[Repository]**: https://github.com/AlexTheAnalyst
 - **[Online Resource]**: (https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
-Special thanks to the [Name of Organization/Team] for their continuous support and encouragement.
-
 Feel free to explore and build upon this work, and we welcome any feedback or contributions from the community.
 
 Thank you!
