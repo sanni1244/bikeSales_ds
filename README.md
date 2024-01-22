@@ -23,8 +23,24 @@ Provides the age distribution of individuals in the dataset, offering insights i
 Indicates whether an individual made a bike purchase (Yes) or not (No).
 
 
+<h3>Project Objectives</h3>
+<b>Exploratory Data Analysis (EDA):</b> Conduct a comprehensive EDA to understand the distribution and relationships between variables within the dataset.
 
-Data Sources
+Demographic Analysis: Investigate how demographic factors such as marital status, gender, income, education, and occupation correlate with bike purchase decisions.
+
+Socioeconomic Impact: Explore the impact of socioeconomic factors, including income and education, on bike sales.
+
+Geographical Patterns: Examine regional variations to identify if certain areas exhibit higher tendencies for bike purchases.
+
+Age-Related Trends: Analyze age-related patterns to understand if specific age groups are more inclined to buy bikes.
+
+Influence of Car Ownership: Investigate whether the number of cars owned influences the likelihood of purchasing a bike.
+
+Visualization: Create visualizations, such as charts and graphs, to effectively communicate patterns and trends discovered during the analysis.
+
+
+
+
 Analysis Steps
 Visualizations
 How to Use the Excel File
