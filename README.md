@@ -51,10 +51,11 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 <h5>Interpret Results</h5>
 <h5>Document and Share</h5>
 
-<h3>Pivot Tables</h3>
+#Pivot Tables
 
-![Example Image](images/shot.png)
 
+<img src="images/shot.png" width="300px">
+<img src="images/pivotspng.png" width="300px">
 ![Example Image](images/pivotspng.png)
 
 
