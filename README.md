@@ -56,7 +56,7 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 
 <img src="images/shot.png" width="600px" height="450px"/>
 
-<img src="images/pivotspng.png" width="600px" height="350px"/>
+<img src="images/pivotspng.png" width="600px" height="250px"/>
 
 
 <h3>Visualizations</h3>
