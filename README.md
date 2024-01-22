@@ -54,9 +54,8 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 #Pivot Tables
 
 
-<img src="images/shot.png" width="300px">
-<img src="images/pivotspng.png" width="300px">
-![Example Image](images/pivotspng.png)
+<img src="images/shot.png" width="600px" height="400px">
+<img src="images/pivotspng.png" width="600px" height="400px">
 
 
 <h3>Visualizations</h3>
