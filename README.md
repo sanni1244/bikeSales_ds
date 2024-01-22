@@ -51,16 +51,13 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 <h5>Interpret Results</h5>
 <h5>Document and Share</h5>
 
-#Pivot Tables
-
-
-<img src="images/shot.png" width="600px" height="450px"/>
-
+# Pivot Tables
 <img src="images/pivotspng.png" width="600px" height="300px"/>
 
 
-<h3>Visualizations</h3>
-![Description](https://github.com/sanni1244/bikeSales_ds/blob/main/images/shot.png)
+# Visualizations
+<img src="images/shot.png" width="600px" height="450px"/>
+
 
 # Acknowledgments
 
