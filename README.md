@@ -53,6 +53,14 @@ Visualization: Create visualizations, such as charts and graphs, to effectively 
 
 <h3>Pivot Tables</h3>
 ![Example Image](images/shot.png)
+![Example Image](shot.png)
+![Example Image](images/shot.png)
+![Example Image](image/shot.png)
+![Example Image](/images/shot.png)
+![Example Image](../images/shot.png)
+![Example Image](./images/shot.png)
+(images/shot.png)
+images/shot.png
 
 <h3>Visualizations</h3>
 ![Description](https://github.com/sanni1244/bikeSales_ds/blob/main/images/shot.png)
