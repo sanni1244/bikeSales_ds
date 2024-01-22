@@ -24,7 +24,8 @@ Indicates whether an individual made a bike purchase (Yes) or not (No).
 
 
 <h3>Project Objectives</h3>
-<b>Exploratory Data Analysis (EDA):</b> Conduct a comprehensive EDA to understand the distribution and relationships between variables within the dataset.
+
+Exploratory Data Analysis (EDA):Conduct a comprehensive EDA to understand the distribution and relationships between variables within the dataset.
 
 Demographic Analysis: Investigate how demographic factors such as marital status, gender, income, education, and occupation correlate with bike purchase decisions.
 
@@ -39,13 +40,24 @@ Influence of Car Ownership: Investigate whether the number of cars owned influen
 Visualization: Create visualizations, such as charts and graphs, to effectively communicate patterns and trends discovered during the analysis.
 
 
+<h3>Analysis Steps</h3>
+<h5>Define Objectives and Questions</h5>
+<h5>Understand the Dataset</h5>
+<h5>Exploratory Data Analysis (EDA)</h5>
+<h5>Data Cleaning and Preprocessing</h5>
+<h5>Create Pivot Tables</h5>
+<h5>Generate Descriptive Statistics</h5>
+<h5>Visualizations</h5>
+<h5>Interpret Results</h5>
+<h5>Document and Share</h5>
 
 
-Analysis Steps
 Visualizations
-How to Use the Excel File
-Acknowledgments
-License
+
 
 ![image](https://github.com/sanni1244/bikeSales_ds/assets/86856217/c708ed2d-4bbf-476c-88d0-9ee97e9854a1)
 ![Description](images/shot.png)
+
+
+How to Use the Excel File
+Acknowledgments
